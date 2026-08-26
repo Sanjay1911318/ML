@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/
+*.pkl
+*.pt
+*.pth
+checkpoints/
+mlruns/
+wandb/
+.env
